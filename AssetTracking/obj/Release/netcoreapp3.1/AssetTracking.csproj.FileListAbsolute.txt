@@ -1,0 +1,12 @@
+/Users/dpthynair/Projects/AssetTracking/AssetTracking/obj/Release/netcoreapp3.1/AssetTracking.AssemblyInfoInputs.cache
+/Users/dpthynair/Projects/AssetTracking/AssetTracking/obj/Release/netcoreapp3.1/AssetTracking.AssemblyInfo.cs
+/Users/dpthynair/Projects/AssetTracking/AssetTracking/obj/Release/netcoreapp3.1/AssetTracking.csproj.CoreCompileInputs.cache
+/Users/dpthynair/Projects/AssetTracking/AssetTracking/bin/Release/netcoreapp3.1/AssetTracking.deps.json
+/Users/dpthynair/Projects/AssetTracking/AssetTracking/bin/Release/netcoreapp3.1/AssetTracking.runtimeconfig.json
+/Users/dpthynair/Projects/AssetTracking/AssetTracking/bin/Release/netcoreapp3.1/AssetTracking.runtimeconfig.dev.json
+/Users/dpthynair/Projects/AssetTracking/AssetTracking/bin/Release/netcoreapp3.1/AssetTracking.dll
+/Users/dpthynair/Projects/AssetTracking/AssetTracking/bin/Release/netcoreapp3.1/AssetTracking.pdb
+/Users/dpthynair/Projects/AssetTracking/AssetTracking/obj/Release/netcoreapp3.1/AssetTracking.dll
+/Users/dpthynair/Projects/AssetTracking/AssetTracking/obj/Release/netcoreapp3.1/AssetTracking.pdb
+/Users/dpthynair/Projects/AssetTracking/AssetTracking/obj/Release/netcoreapp3.1/AssetTracking.genruntimeconfig.cache
+/Users/dpthynair/Projects/AssetTracking/AssetTracking/obj/Release/netcoreapp3.1/AssetTracking.csprojAssemblyReference.cache

@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{446A0F91-88B4-46AD-9DF4-6F99361EEBC0}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="AssetTracking/Program.cs">
+    <Files>
+      <File FileName="AssetTracking/Program.cs" Line="83" Column="35" />
+      <File FileName="AssetTracking/Reuse.cs" Line="9" Column="9" />
+      <File FileName="AssetTracking/Product.cs" Line="27" Column="1" />
+      <File FileName="AssetTracking/Computer.cs" Line="25" Column="16" />
+      <File FileName="AssetTracking/Mobile.cs" Line="23" Column="16" />
+      <File FileName="AssetTracking/Office.cs" Line="56" Column="56" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AssetTracking" expanded="True">
+            <Node name="AssetTracking" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.AssetTracking PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

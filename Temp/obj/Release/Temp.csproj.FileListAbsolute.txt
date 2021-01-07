@@ -1,0 +1,4 @@
+/Users/dpthynair/Projects/AssetTracking/Temp/bin/Release/Temp.exe
+/Users/dpthynair/Projects/AssetTracking/Temp/obj/Release/Temp.csprojAssemblyReference.cache
+/Users/dpthynair/Projects/AssetTracking/Temp/obj/Release/Temp.csproj.CoreCompileInputs.cache
+/Users/dpthynair/Projects/AssetTracking/Temp/obj/Release/Temp.exe
